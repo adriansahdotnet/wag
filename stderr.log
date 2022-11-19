@@ -1,0 +1,267 @@
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: ENOENT: no such file or directory, open 'd'
+Emitted 'error' event on Readable instance at:
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'd'
+}
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+(node:28713) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 12)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 15)
+Warning: got packets out of order. Expected 6 but received 1
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 19)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 21)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 24)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 27)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 30)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 35)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 38)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 40)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 42)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 45)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 48)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 51)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 54)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 57)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 61)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 63)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 66)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 69)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 72)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 76)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 78)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 82)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 84)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 87)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 90)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 93)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 96)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 99)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 102)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 105)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 108)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 111)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 115)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 117)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 120)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 123)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 126)
+(node:2785) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2785) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:2785) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 129)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 132)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 135)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 138)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 141)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 144)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 147)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 150)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 153)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 156)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 159)
+(node:2785) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:2785) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 162)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 165)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 172)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 174)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 176)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 178)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 180)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Connection Closed
+    at sendRawMessage (/home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:49:19)
+    at sendNode (/home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:60:16)
+    at Object.logout (/home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:327:19)
+    at Object.deleteCredentials (/home/lynchsto/wa.lynchstore.xyz/server/router/model/whatsapp.js:1:13900)
+    at Socket.<anonymous> (/home/lynchsto/wa.lynchstore.xyz/server.js:61:11)
+    at Socket.emit (events.js:400:28)
+    at Socket.emitUntyped (/home/lynchsto/wa.lynchstore.xyz/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/socket.io/dist/socket.js:465:39
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 183)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 185)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 189)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 192)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 195)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 199)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 201)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 204)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 207)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 210)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 213)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 216)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 219)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Connection Closed
+    at sendRawMessage (/home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:49:19)
+    at sendNode (/home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:60:16)
+    at Object.logout (/home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:327:19)
+    at Object.deleteCredentials (/home/lynchsto/wa.lynchstore.xyz/server/router/model/whatsapp.js:1:13900)
+    at Socket.<anonymous> (/home/lynchsto/wa.lynchstore.xyz/server.js:61:11)
+    at Socket.emit (events.js:400:28)
+    at Socket.emitUntyped (/home/lynchsto/wa.lynchstore.xyz/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/socket.io/dist/socket.js:465:39
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 222)
+(node:28713) UnhandledPromiseRejectionWarning: Error: Timed Out
+    at /home/lynchsto/wa.lynchstore.xyz/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:157:32
+(node:28713) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 224)
+Closing open session in favor of incoming prekey bundle
+Closing open session in favor of incoming prekey bundle
